@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameScript.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Assignment/Assets/NewBehaviourScript.js">
     <Files>
-      <File FileName="Assets/Script/TitleScript.js" Line="7" Column="2" />
-      <File FileName="Assets/Script/GameScript.js" Line="21" Column="4" />
+      <File FileName="../Assignment/Assets/NewBehaviourScript.js" Line="3" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
