@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Assignment/Assets/NewBehaviourScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ClockScript.js">
     <Files>
-      <File FileName="../Assignment/Assets/NewBehaviourScript.js" Line="3" Column="1" />
+      <File FileName="Assets/Script/ClockScript.js" Line="87" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
